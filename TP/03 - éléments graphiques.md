@@ -24,7 +24,7 @@
 
 ### Bravhilde Briseflamme
 
-![bravhilde-briseflamme.png](images/bravhilde-briseflamme.png)
+![bravhilde-briseflamme.png](images/bravhilde-briseflamme_thumb.png)
 
 | Champ       | Valeur                    |
 |-------------|---------------------------|
@@ -38,7 +38,7 @@
 
 ### Archibald Fumebarbe
 
-![archibald-fumebarbe.png](images/archibald-fumebarbe.png)
+![archibald-fumebarbe.png](images/archibald-fumebarbe_thumb.png)
 
 | Champ       | Valeur                  |
 |-------------|-------------------------|
@@ -52,7 +52,7 @@
 
 ### Lunéria Pluie-d’Argent
 
-![luneria-pluie-dargent.png](images/luneria-pluie-dargent.png)
+![luneria-pluie-dargent.png](images/luneria-pluie-dargent_thumb.png)
 
 | Champ       | Valeur                    |
 |-------------|---------------------------|
@@ -66,7 +66,7 @@
 
 ### Snargle Fignetteur
 
-![snargle-fignetteur.png](images/snargle-fignetteur.png)
+![snargle-fignetteur.png](images/snargle-fignetteur_thumb.png)
 
 | Champ       | Valeur                 |
 |-------------|------------------------|
@@ -84,7 +84,7 @@
 
 ### Potion de santé
 
-![potion-de-sante.png](images/potion-de-sante.png)
+![potion-de-sante.png](images/potion-de-sante_thumb.png)
 
 | Champ     | Valeur          |
 |-----------|-----------------|
@@ -110,7 +110,7 @@
 
 ### Rat Géant
 
-![rat-geant.png](images/rat-geant.png)
+![rat-geant.png](images/rat-geant_thumb.png)
 
 | Champ       | Valeur    |
 |-------------|-----------|
@@ -122,7 +122,7 @@
 
 ### Gobelin lourd
 
-![gobelin-lourd.png](images/gobelin-lourd.png)
+![gobelin-lourd.png](images/gobelin-lourd_thumb.png)
 
 | Champ       | Valeur        |
 |-------------|---------------|
@@ -134,7 +134,7 @@
 
 ### Minotaure
 
-![minotaure.png](images/minotaure.png)
+![minotaure.png](images/minotaure_thumb.png)
 
 | Champ       | Valeur    |
 |-------------|-----------|
@@ -146,7 +146,7 @@
 
 ### Dragon Vert
 
-![dragon-vert.png](images/dragon-vert.png)
+![dragon-vert.png](images/dragon-vert_thumb.png)
 
 | Champ       | Valeur      |
 |-------------|-------------|
@@ -160,4 +160,4 @@
 
 ## La Princesse : Gronnella la Majestueuse
 
-![gronnella-la-majestueuse.png](images/gronnella-la-majestueuse.png)
+![gronnella-la-majestueuse.png](images/gronnella-la-majestueuse_thumb.png)
