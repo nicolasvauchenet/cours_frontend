@@ -84,7 +84,7 @@
 
 ### Potion de santé
 
-![potion-de-sante.png](images/potion-de-sante_thumb.png)
+![potion-de-sante.png](images/potion-de-sante.png)
 
 | Champ     | Valeur          |
 |-----------|-----------------|
