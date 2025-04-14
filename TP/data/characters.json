@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bravhilde Briseflamme",
+    "class": "Guerrière Humaine",
+    "picture": "bravhilde-briseflamme.png",
+    "health": 150,
+    "mana": 0,
+    "damage": 15,
+    "defense": 20
+  },
+  {
+    "name": "Archibald Fumebarbe",
+    "class": "Magicien Humain",
+    "picture": "archibald-fumebarbe.png",
+    "health": 75,
+    "mana": 150,
+    "damage": 15,
+    "defense": 5
+  },
+  {
+    "name": "Lunéria Pluie-d’Argent",
+    "class": "Rôdeuse Elfe",
+    "picture": "luneria-pluie-dargent.png",
+    "health": 100,
+    "mana": 50,
+    "damage": 10,
+    "defense": 8
+  },
+  {
+    "name": "Snargle Fignetteur",
+    "class": "Voleur Gnome",
+    "picture": "snargle-fignetteur.png",
+    "health": 175,
+    "mana": 0,
+    "damage": 7,
+    "defense": 6
+  }
+]

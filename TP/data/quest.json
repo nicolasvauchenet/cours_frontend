@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Au début",
+    "description": "Un village voisin est envahi par des rats géants. Les habitants n’osent plus sortir de chez eux. Il est temps de nettoyer les égouts.",
+    "objective": "Combattre un groupe de trois rats géants",
+    "reward": {
+      "gold": 50,
+      "special": "Un indice : un bout de chaussure de gobelin coincé entre les dents d'un des rats"
+    }
+  },
+  {
+    "title": "Et après",
+    "description": "Des gobelins lourds bloquent la route commerciale entre deux villes. Leur chef réclame un péage absurde. Le commerce ne peut pas attendre.",
+    "objective": "Combattre un groupe de trois gobelins lourds",
+    "reward": {
+      "gold": 150,
+      "special": "Un indice sur le minotaure qui les a payés pour capturer la princesse"
+    }
+  },
+  {
+    "title": "Ça se corse",
+    "description": "Les rumeurs parlent d’un minotaure errant dans les ruines d’un vieux temple. Il aurait dévoré trois marchands et un cheval. Allez voir ce qu’il en est.",
+    "objective": "Combattre un minotaure",
+    "reward": {
+      "gold": 300,
+      "special": "Un indice sur le dragon qui lui a volé la princesse"
+    }
+  },
+  {
+    "title": "Libération",
+    "description": "Un dragon vert a pris possession du château royal. La Princesse est toujours en vie, mais le temps presse. Seul un vrai héros osera l'affronter.",
+    "objective": "Combattre un dragon vert",
+    "reward": {
+      "gold": 1000,
+      "special": "Un bisou de la Princesse"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rat Géant",
+    "health": 50,
+    "mana": 0,
+    "damage": 7,
+    "defense": 5
+  },
+  {
+    "name": "Gobelin lourd",
+    "health": 90,
+    "mana": 0,
+    "damage": 10,
+    "defense": 10
+  },
+  {
+    "name": "Minotaure",
+    "health": 120,
+    "mana": 0,
+    "damage": 15,
+    "defense": 15
+  },
+  {
+    "name": "Dragon Vert",
+    "health": 200,
+    "mana": 200,
+    "damage": 50,
+    "defense": 100
+  }
+]

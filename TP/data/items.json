@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Potion de santé",
+    "target": "health",
+    "amount": 30,
+    "price": 15
+  },
+  {
+    "name": "Potion de magie",
+    "target": "mana",
+    "amount": 30,
+    "price": 15
+  }
+]
